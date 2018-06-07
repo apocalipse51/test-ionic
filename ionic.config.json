@@ -1,0 +1,8 @@
+{
+  "name": "mnu",
+  "app_id": "700d41bf",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
